@@ -108,23 +108,11 @@ Then paste it directly into [Overleaf](https://www.overleaf.com/) → Compile �
 
 ---
 
-## 🧠 Author
 
-**Kumar Satyam**
-💼 *Smart Resume Builder by *
-📧 [[YourEmail@example.com](mailto:YourEmail@example.com)]
-🌐 [Your Portfolio or GitHub Profile]
-
----
-
-## 🪶 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
----
 
 ### ⭐ Support the Project
 
 If you found this useful, consider giving it a ⭐ on GitHub to support future updates!
+
 
 ```
